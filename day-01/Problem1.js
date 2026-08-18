@@ -9,5 +9,5 @@ else if (number < 0) {
     console.log("Number is negative");
 }
 else {
-    console.log("Number is zeo or neutral");
+    console.log("Number is zero or neutral");
 }
