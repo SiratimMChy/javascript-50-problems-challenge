@@ -1,0 +1,1 @@
+/*Problem 6: Count how many even and odd numbers are in an array.*/
