@@ -1,0 +1,1 @@
+/* Problem 21: Calculate the sum of all numeric values in an object.*/

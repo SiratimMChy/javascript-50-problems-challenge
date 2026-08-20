@@ -1,0 +1,1 @@
+/* Problem 24: Create a function using Rest Parameters (...) that accepts any number of numbers and returns their sum. */

@@ -1,0 +1,1 @@
+/* Problem 22: From an array of employee objects, find the employee with the highest salary.*/
