@@ -1,3 +1,4 @@
+/* Problem 25: Create a function that takes three numbers and returns the largest number. */
 function largestNum(a, b, c) {
     if (a >= b && a >= c) {
         return `${a} is largest number`

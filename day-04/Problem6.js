@@ -1,3 +1,4 @@
+/* Problem 30: Create a function that checks whether a number is prime. */
 function isPrime(n) {
     if (n < 2) {
         console.log("Not Prime");
