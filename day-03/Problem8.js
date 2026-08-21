@@ -7,5 +7,4 @@ function sum(...numbers) {
     }
     return Sum;
 }
-
 console.log(sum(15, 20, 25, 30, 35, 40, 45));
