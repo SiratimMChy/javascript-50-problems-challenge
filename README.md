@@ -86,10 +86,10 @@
     Create a curried function that allows the following syntax:
     `multiply(2)(3)(4)`
     It should return 24.
-36. **Two-Level Currying**
+36. **Three-Level Currying**
     Create a curried function that allows the following syntax:
-    `calculate(10)(20)`
-    It should return the sum of the two numbers.
+    `calculate(10)(20)(30)`
+    It should return 60.
 37. **Memoized Function**
     Create a memoized function that caches previously calculated results and avoids repeating the same calculation for the same input.
 38. **Debounce Function**
