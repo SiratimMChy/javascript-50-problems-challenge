@@ -1,3 +1,5 @@
+/*Problem 49 — Bank Account Class
+Create a BankAccount class with a private #balance field. Implement deposit() and withdraw() methods and use getters/setters where appropriate. The balance should not be directly accessible from outside the class. */
 class BankAccount {
     #balance = 0;
 

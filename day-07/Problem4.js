@@ -1,3 +1,4 @@
+/*Problem 50 — Animal Inheritance & Polymorphism Create an Animal parent class and Dog and Cat child classes. Use extends, super(), method overriding, and polymorphism. Each child class should implement its own version of the sound() method.*/
 class Animal {
     constructor(name) {
         this.name = name;
